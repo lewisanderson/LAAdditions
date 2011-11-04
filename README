@@ -1,7 +1,7 @@
 LAAdditions is a supplemental library for UIKit and Foundation, consisting of several useful categories on existing classes.
 
-This has not been edited or well commented, and was pulled directly from a work in progress. So please don't judge my coding ability based on this alone. ;) That being said, feel free to contribute changes or improvements!
+This has not been edited or well commented, and was pulled directly from a work in progress. So please don't judge my coding ability based on this alone. ;) That being said, I believe every category to be fully reliable and functional, but it has not been organized or thoroughly tested. Feel free to contribute changes or improvements!
 
-This is free to use for personal or commercial projects. No warranty expressed or implied. Use at your risk.
+This is free to use for personal or commercial projects. Some form of attribution would be nice, but is not required. No warranty expressed or implied. Use at your risk.
 
 Good coding.
