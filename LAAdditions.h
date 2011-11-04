@@ -1,6 +1,6 @@
 //
 //  LAAdditions.h
-//  AbWorkout
+//
 //
 //  Created by Lewis Anderson on 9/2/11.
 //  Copyright 2011 Lewis Anderson. All rights reserved.
